@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Display the Student Identity Management System menu.
+Step 3: Enter the user choice.
+Step 4: Check the choice.
+Step 5: If choice = 1, enter student details and store them in the file.
+Step 6: If choice = 2, read and display all student records.
+Step 7: If choice = 3, enter Aadhaar number and search the student record.
+Step 8: If choice = 4, exit the program.
+Step 9: Stop.
